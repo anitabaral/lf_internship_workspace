@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: space-age
+Version: 1.0.2
+Summary: It gives your age in other planets.
+Home-page: https://github.com/anitabaral/lf_internship_workspace/Python_Assignment/space_age
+Author: Anita Baral
+Author-email: baralanita2@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Space Age
+It takes age in earth and the planet in which you would like to know your age, and then displays the age in that specified planet.
+
+## Installation
+```pip install space_age```
+
+## How to use it?
+Open terminal and type space and then input your age in earth and then the planet where you wish to know your age.
+
+## License
+
+© 2021 Anita Baral
+
+This repository is licensed under the MIT license. See LICENSE for details.
+
+

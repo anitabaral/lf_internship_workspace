@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+space/__init__.py
+space/__main__.py
+space_age.egg-info/PKG-INFO
+space_age.egg-info/SOURCES.txt
+space_age.egg-info/dependency_links.txt
+space_age.egg-info/entry_points.txt
+space_age.egg-info/top_level.txt
